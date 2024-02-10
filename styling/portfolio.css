@@ -1,8 +1,11 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
+  --branding-color: #7d0a0a;
+  --secondary-color: #eed6c4;
   --heading-font-family: "Playfair Display", sans-serif;
   --default-font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #fafafa;
 }
 h1,
 h2,
@@ -150,5 +153,8 @@ footer .social-links a :hover {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  footer .contact-box {
+    padding: 30px;
   }
 }
