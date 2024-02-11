@@ -1,11 +1,11 @@
 :root {
-  --branding-color: #7d0a0a;
-  --secondary-color: #eed6c4;
+  --branding-color: #7868e6;
+  --secondary-color: #edeef7;
   --heading-font-family: "Playfair Display", sans-serif;
   --default-font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #fafafa;
+  background-color: #fffdf9;
 }
 h1,
 h2,
